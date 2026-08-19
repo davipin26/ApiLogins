@@ -7,25 +7,25 @@ const usuarios = [
   {
     "id": 1,
     "usuario": "Esteban.Pinto",
-    "password": "123"
+    "password": "123",
     "rol": "Administrador"
   },
   {
     "id": 2,
     "usuario": "Edimer.Velasquez",
-    "password": "456"
+    "password": "456",
     "rol": "Administrador"
   },
   {
     "id": 3,
     "usuario": "Yojan.Castañeda",
-    "password": "789"
+    "password": "789",
     "rol": "Usuario"
   },
   {
     "id": 4,
     "usuario": "Brandon.Monsalve",
-    "password": "978"
+    "password": "978",
     "rol": "Usuario"
   }
 ];
