@@ -28,7 +28,8 @@ const usuarios = [
 
 
 app.get('/users', (req, res) => {
-  res.json(usuarios); 
+  res.setHeader('Content-Type', 'application/json');
+  res.send(JSON.stringify(usuarios, null, 2));
 });
 
 app.listen(PORT, () => {
