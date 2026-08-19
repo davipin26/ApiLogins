@@ -11,7 +11,7 @@ const usuarios = [
   },
   {
     "id": 2,
-    "usuario": "Edimer.Velazques",
+    "usuario": "Edimer.Velasquez",
     "password": "456"
   },
   {
